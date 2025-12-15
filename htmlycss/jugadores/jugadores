@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jugadores del Sporting de Gijón</title>
+ 
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+  
+<body>
+
+<header>
+    <h1>Jugadores del Sporting de Gijón</h1>
+    <p>Conoce a los jugadores del equipo asturiano</p>
+</header>
+
+<nav>
+    <a href="https://codepen.io/caduceo/pen/gbrJdre">Inicio</a>
+    <a href="https://codepen.io/caduceo/pen/RNamBdg">Plantilla</a>
+   
+</nav>
+
+<div class="content">
+    <!-- Jugador 1 -->
+    <div class="player">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wv-u_cNIIEKLvFusir8hb1tRHOFdBqcLaA&s" alt="Jugador 1">
+        <h3>Diego Sánchez</h3>
+        <p>Posición: lateral izquierdo</p>
+        <p>Nacionalidad: Española</p>
+    </div>
+    
+    <!-- Jugador 2 -->
+    <div class="player">
+        <img src="https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/14/cesar-gelabert-k2WH-U2405565374246bB-1200x840@El%20Comercio.jpg" alt="Jugador 2">
+        <h3>Cesar Gelabert</h3>
+        <p>Posición: Mediocampista</p>
+        <p>Nacionalidad: Española</p>
+    </div>
+
+    <!-- Jugador 3 -->
+    <div class="player">
+        <img src="https://www.rtpa.es/fotos//24/05/20240529195338_RTPA5063377.jpg" alt="Jugador 3">
+        <h3>Ruben Yañez</h3>
+        <p>Posición: Guardameta</p>
+        <p>Nacionalidad: Española</p>
+    </div>
+
+  
+ <!-- Jugador 4 -->
+    <div class="player">
+      <a title="juan otero" href="<http://www.lostejos.com">
+        <img src="https://cflvdg.avoz.es/sc/MXFkjGzCCcUZVSYmweNOu1egJP0=/768x/2022/12/28/00121672226346227397165/Foto/otero.png" alt="Jugador 3"> </a>
+        <h3>Juan Otero</h3>
+        <p>Posición: killer</p>
+        <p>Nacionalidad: colombiana</p>
+    </div>
+
+  
+  
+  
+<!-- Jugador 5 -->
+    <div class="player">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FcqgX3pcQugd5Ntls_LtpjLMLpIXg-kR7g&s" alt="Jugador 5">
+        <h3>Lucas Perrin</h3>
+        <p>Posición: defensa</p>
+        <p>Nacionalidad: francesa</p>
+    </div>
+
+
+<!-- Jugador 6 -->
+    <div class="player">
+        <img src="https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/04/15/sporting-gijon-dubasin-kkbC--1200x840@El%20Comercio.jpg" alt="Jugador 6">
+        <h3>Jonathan Dubasin</h3>
+        <p>Posición: killer</p>
+        <p>Nacionalidad: hispano-belga</p>
+    </div>
+</div>
+
+
+<footer>
+    <p>&copy; 2026 Sporting de Gijón</p>
+</footer>
+
+</body>
+</html>
