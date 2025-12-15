@@ -1,2 +1,78 @@
 # ElrincondeLuis
 Aqui ire poniendo las cositas del curso
+
+body {
+            font-family: Arial, sans-serif;
+            
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            max-width:100%;
+      }
+
+header {
+            background-color: #c8102e;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+nav {
+            background-color: #222;
+            overflow: hidden;
+        }
+
+nav a {
+            color: white;
+            padding: 14px 20px;
+            display: inline-block;
+            text-decoration: none;
+            text-align: center;
+        }
+nav a:hover {
+            background-color: #575757;
+        }
+.content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 20px;
+        }
+
+.player {
+            background-color: white;
+            border-radius: 8px;
+            margin: 10px;
+            padding: 20px;
+            width: 250px;
+            box-shadow: 0 0 10px;
+            rgba (0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+ .player img {
+            width: 100%;
+              height:200px;
+            border-radius: 8px;
+        }
+
+  .player h3 {
+            margin-top: 10px;
+            font-size: 1.5em;
+        }
+
+        .player p {
+            color: #555;
+            font-size: 1.2em;
+           
+        }
+footer {
+            text-align: center;
+            background-color: #222;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            height:30px;
+            bottom: 0;
+        }
