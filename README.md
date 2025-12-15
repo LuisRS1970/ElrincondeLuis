@@ -3,4 +3,4 @@ Aqui ire poniendo las cositas del curso
 
 mi codepen ------ https://codepen.io/caduceo
 
-mi figma -------- https://www.figma.com/files/team/1143502385055864836/recents-and-sharing?fuid=1143502376105209362
+mi figma -------- https://www.figma.com/design/qxbmUncF0YKLxk7Mlsg6cd/spain-80?node-id=0-1&p=f&t=zpau2PHIL6R8lLyp-0
