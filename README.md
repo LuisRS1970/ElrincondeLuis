@@ -1,6 +1,5 @@
 # ElrincondeLuis
 Aqui ire poniendo las cositas del curso
-https://codepen.io/caduceo/pen/RNamBdg
 body {
             font-family: Arial, sans-serif;
             
