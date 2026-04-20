@@ -7,3 +7,8 @@ mi figma -------- https://www.figma.com/design/qxbmUncF0YKLxk7Mlsg6cd/spain-80?n
 
 https://codepen.io/caduceo/pen/QwKZvYY
 
+
+Pelis bélicas:
+
+https://codepen.io/caduceo/pen/ByKXVdE
+
