@@ -12,3 +12,4 @@ Pelis bélicas:
 
 https://codepen.io/caduceo/pen/ByKXVdE
 
+Web sobre una cuantas pelis bélicas que a mi personalmente me gustaron mucho, con tarjetas individuales para cada peli y posiblidad de visualizar un breve vídeo sobre la pali seleccionada.
