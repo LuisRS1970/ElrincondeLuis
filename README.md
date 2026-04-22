@@ -8,8 +8,8 @@ mi figma -------- https://www.figma.com/design/qxbmUncF0YKLxk7Mlsg6cd/spain-80?n
 https://codepen.io/caduceo/pen/QwKZvYY
 
 
-Pelis bélicas:
+Pelis por décadas:
 
-https://codepen.io/caduceo/pen/ByKXVdE
+https://codepen.io/caduceo/pen/ogLzmwp
 
-Web sobre una cuantas pelis bélicas que a mi personalmente me gustaron mucho, con tarjetas individuales para cada peli y posiblidad de visualizar un breve vídeo sobre la pali seleccionada.
+Web sobre una cuantas pelis que a mi personalmente me gustaron mucho, con tarjetas individuales para cada peli y posiblidad de filtrar por década.
